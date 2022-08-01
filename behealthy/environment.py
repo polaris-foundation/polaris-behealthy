@@ -89,7 +89,7 @@ def after_scenario(context: Context, scenario: Scenario) -> None:
                     "closed_date": (
                         datetime.datetime.now() - datetime.timedelta(days=1)
                     ).strftime("%Y-%m-%d"),
-                    "closed_reason_other": "Be-healthy e2e tests teardown.",
+                    "closed_reason_other": "polaris-behealthy e2e tests teardown.",
                 },
             )
         encounters: List[Dict] = context.encounters_client.get_encounters_for_patient(

@@ -1,10 +1,10 @@
-# be-healthy
+# polaris-behealthy
 
-**be-healthy** is BDD Toolkit for Polaris Services to ensure our integrations are healthy.
+**polaris-behealthy** is a BDD Toolkit for Polaris Services to ensure our integrations are healthy.
 
-**be-healthy** is a wrapper around [behave](https://behave.readthedocs.io/en/latest/), the Python library that lets us write tests in natural language and use Behaviour Driven Development.
+**polaris-behealthy** is a wrapper around [behave](https://behave.readthedocs.io/en/latest/), the Python library that lets us write tests in natural language and use Behaviour Driven Development.
 
-With **be-healthy** we can write tests like
+With **polaris-behealthy** we can write tests like
 
 ```
 Given I am a Clinician using SEND Entry
@@ -25,7 +25,7 @@ For now, Sensyne Health Ltd. and its employees are the maintainers of this repos
 
 ## Installation
 
-**be-healthy** requires Python 3.9.
+**polaris-behealthy** requires Python 3.9.
 
 ```
 poetry install -v
@@ -120,7 +120,7 @@ Why do tests fail? These are the most common reasons, and feel free to add to th
 
 How do tests fail?
 
-- [Assert stops raising](https://github.com/draysontechnologies/be-healthy/blob/master/behealthy/utils/assertions.py#L4)... raises!
+- [Assert stops raising](behealthy/utils/assertions.py#L4)... raises!
 - An Exception in BeHealthy
 - An Exception in Polaris
 

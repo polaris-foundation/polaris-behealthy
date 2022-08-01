@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "she-be-healthy"
+name = "polaris-behealthy"
 version = "0.0.2"
 description = "End-to-end tests for the platform"
 authors = ["Andrew Gill <andrew.gill@sensynehealth.com>", "Duncan Booth <duncan.booth@sensynehealth.com"]
 keywords = ["behave", "BDD", "Testing", "e2e"]
-repository = "https://github.com/draysontechnologies/be-healthy"
+repository = "https://github.com/sensynehealth/polaris-behealthy"
 
 [[tool.poetry.source]]
 name = "sensynehealth"

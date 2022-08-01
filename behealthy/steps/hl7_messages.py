@@ -585,7 +585,7 @@ def _generate_patient_details(context: Context) -> None:
         ward = context.location["ods_code"]
         location = context.location["ods_code"]
     except AttributeError:
-        ward = f"be-Healthy Ward {str(random.randint(1,1000))}"
+        ward = f"polaris-behealthy Ward {str(random.randint(1,1000))}"
         location = f"{ward}^Room {str(random.randint(1,1000))}^Bed {str(random.randint(1,1000))}"
     context.mrn = mrn
     context.nhs_number = nhs_number
