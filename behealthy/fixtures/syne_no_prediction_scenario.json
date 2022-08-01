@@ -1,0 +1,182 @@
+[
+    {
+        "measured_timestamp": -18000,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-AFTER-DINNER",
+            "value": 6
+        },
+        "blood_glucose_value": 7.2,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -21600,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-BEFORE-DINNER",
+            "value": 5
+        },
+        "blood_glucose_value": 6.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -43200,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-AFTER-LUNCH",
+            "value": 4
+        },
+        "blood_glucose_value": 7.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -46800,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-BEFORE-LUNCH",
+            "value": 3
+        },
+        "blood_glucose_value": 6.2,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -61200,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-AFTER-BREAKFAST",
+            "value": 2
+        },
+        "blood_glucose_value": 6.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -64800,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-BEFORE-BREAKFAST",
+            "value": 1
+        },
+        "blood_glucose_value": 5.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -104400,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-AFTER-DINNER",
+            "value": 6
+        },
+        "blood_glucose_value": 7.2,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -108000,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-BEFORE-DINNER",
+            "value": 5
+        },
+        "blood_glucose_value": 6.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -129600,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-AFTER-LUNCH",
+            "value": 4
+        },
+        "blood_glucose_value": 7.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -133200,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-BEFORE-LUNCH",
+            "value": 3
+        },
+        "blood_glucose_value": 6.2,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -147600,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-AFTER-BREAKFAST",
+            "value": 2
+        },
+        "blood_glucose_value": 6.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -151200,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-BEFORE-BREAKFAST",
+            "value": 1
+        },
+        "blood_glucose_value": 5.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -190800,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-AFTER-DINNER",
+            "value": 6
+        },
+        "blood_glucose_value": 7.2,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -194400,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-BEFORE-DINNER",
+            "value": 5
+        },
+        "blood_glucose_value": 6.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -216000,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-AFTER-LUNCH",
+            "value": 4
+        },
+        "blood_glucose_value": 7.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -219600,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-BEFORE-LUNCH",
+            "value": 3
+        },
+        "blood_glucose_value": 6.2,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -234000,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-AFTER-BREAKFAST",
+            "value": 2
+        },
+        "blood_glucose_value": 6.0,
+        "doses": [],
+        "units": "mmol/L"
+    },
+    {
+        "measured_timestamp": -237600,
+        "prandial_tag": {
+            "uuid": "PRANDIAL-TAG-BEFORE-BREAKFAST",
+            "value": 1
+        },
+        "blood_glucose_value": 5.0,
+        "doses": [],
+        "units": "mmol/L"
+    }
+]

@@ -1,0 +1,15 @@
+{% for feature in features %}
+## [{{feature.name}}](https://github.com/draysontechnologies/be-healthy/tree/toc/{{feature.location.relpath()}}#L{{feature.location.line}})
+
+{% for description in feature.description %}
+{{description}}{% endfor %}
+
+### Scenarios
+
+{% for scenario in feature.scenarios %}
+#### [{{ scenario.name }}](https://github.com/draysontechnologies/be-healthy/tree/toc/{{feature.location.relpath()}}#L{{scenario.location.line}})
+
+{% for description in scenario.description %}{{description}}{% endfor %}
+{% endfor %}
+---
+{% endfor %}

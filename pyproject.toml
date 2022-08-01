@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "she-be-healthy"
+version = "0.0.2"
+description = "End-to-end tests for the platform"
+authors = ["Andrew Gill <andrew.gill@sensynehealth.com>", "Duncan Booth <duncan.booth@sensynehealth.com"]
+keywords = ["behave", "BDD", "Testing", "e2e"]
+repository = "https://github.com/draysontechnologies/be-healthy"
+
+[[tool.poetry.source]]
+name = "sensynehealth"
+url = "https://pypi.fury.io/sensynehealth/"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+behave = "1.*"
+colorlog = "4.*"
+draymed = "2.*"
+hl7 = "0.*"
+Jinja2 = "3.*"
+PyPDF2 = "1.*"
+requests = "2.*"
+reportportal-behave-client = "1.*"
+she-http-clients = ">=2.2.2"
+she-logging = "1.*"
+twilio = "6.*"
+she-data-generation = "1.*"
+
+[tool.poetry.dev-dependencies]
+mypy = "*"
+black = "*"
+isort = "*"
+types-requests = "*"
