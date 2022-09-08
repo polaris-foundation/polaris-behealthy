@@ -1,14 +1,10 @@
 [tool.poetry]
 name = "polaris-behealthy"
 version = "0.0.2"
-description = "End-to-end tests for the platform"
+description = "End-to-end tests for the Polaris platform"
 authors = ["Andrew Gill <andrew.gill@sensynehealth.com>", "Duncan Booth <duncan.booth@sensynehealth.com"]
 keywords = ["behave", "BDD", "Testing", "e2e"]
 repository = "https://github.com/sensynehealth/polaris-behealthy"
-
-[[tool.poetry.source]]
-name = "sensynehealth"
-url = "https://pypi.fury.io/sensynehealth/"
 
 [tool.poetry.dependencies]
 python = "^3.9"
